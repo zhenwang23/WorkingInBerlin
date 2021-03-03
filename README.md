@@ -8,6 +8,8 @@ In the last 10 years, Berlin has be rapidly growing and it has been well known i
 So if you want to move to Berlin, why not NOW? 
 The population of Berlin is 3.5Million.
 ## Who are eligable for working in Berlin?
+Everyone is eligable for working in Berlin and Berlin is a diverse place to live. But I would highly recommend people with such below skillsets to consider berlin as their career destination.
+1. Software engineering background
 ## How to do interviews?
 ## How to prepare your visa application?
 ## What do you need to do prior to landing in Berlin?
